@@ -1,0 +1,17 @@
+{
+  "name": "TextSupport",
+  "version": "1.0.0",
+  "description": "Providing text support for the world's elite customer service representatives",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.9.0",
+    "express": "^4.9.7",
+    "request": "^2.45.0",
+    "twilio": "^1.7.0"
+  }
+}
